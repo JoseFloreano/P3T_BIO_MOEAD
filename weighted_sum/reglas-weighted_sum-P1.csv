@@ -1,0 +1,121 @@
+,antecedente,consecuente,Cassual-supp,Cassual-conf,Max-conf
+0,"age = [0, 9] ∧ heart_disease = No ∧ smoking_history = not current ∧ blood_glucose_level = [80, 159] ",hypertension = No ,0.08382970719167346,0.5374895545820567,1.0
+1,"gender = Female ∧ age = [0, 9] ∧ blood_glucose_level = [80, 159] ",hypertension = No ,0.11397579785566493,0.5386664577293739,1.0
+2,heart_disease = No ,"age = [20, 59] ",0.5733901812025832,0.6639233051185529,0.9830054682004855
+3,heart_disease = No ,"age = [20, 59] ",0.5733901812025832,0.6639233051185529,0.9830054682004855
+4,heart_disease = No ,"age = [20, 59] ",0.5733901812025832,0.6639233051185529,0.9830054682004855
+5,heart_disease = No ,"age = [20, 59] ",0.5733901812025832,0.6639233051185529,0.9830054682004855
+6,"age = [20, 59] ∧ location = Wisconsin ∧ smoking_history = not current ∧ blood_glucose_level = [160, 199] ∧ diabetes = No ∧ race = Hispanic ",gender = Female ∧ hypertension = No ,0.4568186093171986,0.728385462389325,1.0
+7,"age = [20, 59] ∧ location = Wisconsin ∧ smoking_history = not current ∧ blood_glucose_level = [160, 199] ∧ diabetes = No ∧ race = Hispanic ",gender = Female ∧ hypertension = No ,0.4568186093171986,0.728385462389325,1.0
+8,"age = [20, 59] ∧ location = Wisconsin ∧ smoking_history = not current ∧ blood_glucose_level = [160, 199] ∧ diabetes = No ∧ race = Hispanic ",gender = Female ∧ hypertension = No ,0.4568186093171986,0.728385462389325,1.0
+9,location = Wisconsin ∧ hypertension = No ∧ smoking_history = not current ∧ bmi = [18.49] ∧ hbA1c_level = [6.5] ,heart_disease = No ∧ race = Hispanic ,0.8081133613392689,0.9040554775280899,1.0
+10,gender = Female ∧ location = Wisconsin ∧ hypertension = No ∧ smoking_history = not current ∧ bmi = [18.49] ∧ hbA1c_level = [6.5] ,heart_disease = No ∧ race = Hispanic ,0.8081133613392689,0.9040554775280899,1.0
+11,"gender = Female ∧ age = [20, 59] ∧ location = Wisconsin ∧ hypertension = No ∧ smoking_history = not current ∧ bmi = [18.49] ∧ hbA1c_level = [6.5] ",heart_disease = No ∧ race = Hispanic ,0.8081133613392689,0.9040554775280899,1.0
+12,"gender = Female ∧ age = [20, 59] ∧ location = Wisconsin ∧ hypertension = No ∧ smoking_history = not current ∧ bmi = [18.49] ∧ hbA1c_level = [6.5] ",heart_disease = No ∧ race = Hispanic ,0.8081133613392689,0.9040554775280899,1.0
+13,"age = [20, 59] ∧ heart_disease = Si ∧ smoking_history = not current ∧ bmi = [25, 29.99] ∧ diabetes = Si ∧ race = Other ",blood_glucose_level = [200] ,0.8916170292808326,0.9458064758847282,1.0
+14,"age = [20, 59] ∧ heart_disease = Si ∧ smoking_history = not current ∧ bmi = [25, 29.99] ∧ diabetes = Si ∧ race = Other ",blood_glucose_level = [200] ,0.8916170292808326,0.9458064758847282,1.0
+15,heart_disease = No ,hypertension = No ,0.9049720985641733,0.5847898501394161,0.9674491689581838
+16,heart_disease = No ,"age = [20, 59] ",0.5733901812025832,0.6639233051185529,0.9830054682004855
+17,heart_disease = No ,"age = [20, 59] ",0.5733901812025832,0.6639233051185529,0.9830054682004855
+18,heart_disease = No ,"age = [20, 59] ",0.5733901812025832,0.6639233051185529,0.9830054682004855
+19,heart_disease = No ,"age = [20, 59] ",0.5733901812025832,0.6639233051185529,0.9830054682004855
+20,"age = [20, 59] ∧ location = Wisconsin ∧ smoking_history = not current ∧ blood_glucose_level = [160, 199] ∧ diabetes = No ∧ race = Hispanic ",gender = Female ∧ hypertension = No ,0.4568186093171986,0.728385462389325,1.0
+21,"age = [20, 59] ∧ location = Wisconsin ∧ smoking_history = not current ∧ blood_glucose_level = [160, 199] ∧ diabetes = No ∧ race = Hispanic ",gender = Female ∧ hypertension = No ,0.4568186093171986,0.728385462389325,1.0
+22,"age = [20, 59] ∧ location = Wisconsin ∧ smoking_history = not current ∧ blood_glucose_level = [160, 199] ∧ diabetes = No ∧ race = Hispanic ",gender = Female ∧ hypertension = No ,0.4568186093171986,0.728385462389325,1.0
+23,"age = [20, 59] ∧ location = Wisconsin ∧ smoking_history = not current ∧ blood_glucose_level = [160, 199] ∧ diabetes = No ∧ race = Hispanic ",gender = Female ∧ hypertension = No ,0.4568186093171986,0.728385462389325,1.0
+24,location = Wisconsin ∧ hypertension = No ∧ smoking_history = not current ∧ bmi = [18.49] ∧ hbA1c_level = [6.5] ,heart_disease = No ∧ race = Hispanic ,0.8081133613392689,0.9040554775280899,1.0
+25,"gender = Female ∧ age = [20, 59] ∧ location = Wisconsin ∧ smoking_history = not current ∧ bmi = [18.49] ∧ hbA1c_level = [6.5] ",heart_disease = No ∧ race = Hispanic ,0.8081133613392689,0.9040554775280899,1.0
+26,"age = [20, 59] ∧ location = Wisconsin ∧ hypertension = No ∧ smoking_history = not current ∧ bmi = [18.49] ∧ hbA1c_level = [6.5] ",heart_disease = No ∧ race = Hispanic ,0.8081133613392689,0.9040554775280899,1.0
+27,"age = [20, 59] ∧ location = Wisconsin ∧ hypertension = No ∧ smoking_history = not current ∧ bmi = [18.49] ∧ hbA1c_level = [6.5] ",heart_disease = No ∧ race = Hispanic ,0.8081133613392689,0.9040554775280899,1.0
+28,"age = [20, 59] ∧ heart_disease = Si ∧ smoking_history = not current ∧ bmi = [25, 29.99] ∧ diabetes = Si ∧ race = Other ",blood_glucose_level = [200] ,0.8916170292808326,0.9458064758847282,1.0
+29,heart_disease = No ,"age = [20, 59] ",0.5733901812025832,0.6639233051185529,0.9830054682004855
+30,heart_disease = No ,"age = [20, 59] ",0.5733901812025832,0.6639233051185529,0.9830054682004855
+31,heart_disease = No ,"age = [20, 59] ",0.5733901812025832,0.6639233051185529,0.9830054682004855
+32,heart_disease = No ,"age = [20, 59] ",0.5733901812025832,0.6639233051185529,0.9830054682004855
+33,"age = [20, 59] ∧ location = Wisconsin ∧ smoking_history = not current ∧ blood_glucose_level = [160, 199] ∧ race = Hispanic ",gender = Female ∧ hypertension = No ,0.4568186093171986,0.728385462389325,1.0
+34,"age = [20, 59] ∧ location = Wisconsin ∧ smoking_history = not current ∧ blood_glucose_level = [160, 199] ∧ race = Hispanic ",gender = Female ∧ hypertension = No ,0.4568186093171986,0.728385462389325,1.0
+35,"age = [20, 59] ∧ location = Wisconsin ∧ smoking_history = not current ∧ bmi = [18.49] ∧ hbA1c_level = [5.7, 6.4] ∧ blood_glucose_level = [80, 159] ∧ diabetes = No ",heart_disease = No ∧ race = Hispanic ,0.8081133613392689,0.9040554775280899,1.0
+36,"age = [20, 59] ∧ location = Wisconsin ∧ smoking_history = not current ∧ blood_glucose_level = [160, 199] ∧ diabetes = No ∧ race = Hispanic ",gender = Female ∧ hypertension = No ,0.4568186093171986,0.728385462389325,1.0
+37,"age = [20, 59] ∧ location = Wisconsin ∧ smoking_history = not current ∧ blood_glucose_level = [160, 199] ∧ diabetes = No ∧ race = Hispanic ",gender = Female ∧ hypertension = No ,0.4568186093171986,0.728385462389325,1.0
+38,"age = [20, 59] ∧ location = Wisconsin ∧ hypertension = No ∧ smoking_history = not current ∧ bmi = [18.49] ∧ hbA1c_level = [6.5] ",heart_disease = No ∧ race = Hispanic ,0.8081133613392689,0.9040554775280899,1.0
+39,"age = [20, 59] ∧ location = Wisconsin ∧ hypertension = No ∧ smoking_history = not current ∧ bmi = [18.49] ∧ hbA1c_level = [6.5] ",heart_disease = No ∧ race = Hispanic ,0.8081133613392689,0.9040554775280899,1.0
+40,"gender = Female ∧ age = [20, 59] ∧ location = Wisconsin ∧ hypertension = No ∧ smoking_history = not current ∧ bmi = [18.49] ∧ hbA1c_level = [6.5] ",heart_disease = No ∧ race = Hispanic ,0.8081133613392689,0.9040554775280899,1.0
+41,"gender = Female ∧ age = [20, 59] ∧ location = Wisconsin ∧ hypertension = No ∧ smoking_history = not current ∧ bmi = [18.49] ∧ hbA1c_level = [6.5] ",heart_disease = No ∧ race = Hispanic ,0.8081133613392689,0.9040554775280899,1.0
+42,heart_disease = No ,"age = [20, 59] ",0.5733901812025832,0.6639233051185529,0.9830054682004855
+43,heart_disease = No ,"age = [20, 59] ",0.5733901812025832,0.6639233051185529,0.9830054682004855
+44,heart_disease = No ,"age = [20, 59] ",0.5733901812025832,0.6639233051185529,0.9830054682004855
+45,"location = Wisconsin ∧ bmi = [25, 29.99] ∧ hbA1c_level = [5.7, 6.4] ∧ blood_glucose_level = [160, 199] ∧ race = Hispanic ",gender = Female ∧ hypertension = No ,0.4568060693460405,0.7283825982267147,1.0
+46,"age = [20, 59] ∧ location = Wisconsin ∧ smoking_history = not current ∧ blood_glucose_level = [160, 199] ∧ race = Hispanic ",gender = Female ∧ hypertension = No ,0.4568186093171986,0.728385462389325,1.0
+47,"age = [20, 59] ∧ location = Wisconsin ∧ hypertension = No ∧ smoking_history = not current ∧ bmi = [18.49] ∧ hbA1c_level = [5.7, 6.4] ∧ blood_glucose_level = [80, 159] ∧ diabetes = No ",heart_disease = No ∧ race = Hispanic ,0.8081133613392689,0.9040554775280899,1.0
+48,"age = [20, 59] ∧ location = Wisconsin ∧ hypertension = No ∧ smoking_history = not current ∧ bmi = [18.49] ∧ hbA1c_level = [5.7, 6.4] ∧ blood_glucose_level = [80, 159] ∧ diabetes = No ",heart_disease = No ∧ race = Hispanic ,0.8081133613392689,0.9040554775280899,1.0
+49,"age = [20, 59] ∧ location = Wisconsin ∧ smoking_history = not current ∧ blood_glucose_level = [160, 199] ∧ diabetes = No ∧ race = Hispanic ",gender = Female ∧ hypertension = No ,0.4568186093171986,0.728385462389325,1.0
+50,"age = [20, 59] ∧ location = Wisconsin ∧ smoking_history = not current ∧ blood_glucose_level = [160, 199] ∧ diabetes = No ∧ race = Hispanic ",gender = Female ∧ hypertension = No ,0.4568186093171986,0.728385462389325,1.0
+51,"age = [20, 59] ∧ location = Wisconsin ∧ hypertension = No ∧ smoking_history = not current ∧ bmi = [18.49] ∧ hbA1c_level = [6.5] ",heart_disease = No ∧ race = Hispanic ,0.8081133613392689,0.9040554775280899,1.0
+52,"gender = Female ∧ age = [20, 59] ∧ location = Wisconsin ∧ hypertension = No ∧ smoking_history = not current ∧ bmi = [18.49] ∧ hbA1c_level = [6.5] ",heart_disease = No ∧ race = Hispanic ,0.8081133613392689,0.9040554775280899,1.0
+53,"gender = Female ∧ age = [20, 59] ∧ location = Wisconsin ∧ hypertension = No ∧ smoking_history = not current ∧ bmi = [18.49] ∧ hbA1c_level = [6.5] ",heart_disease = No ∧ race = Hispanic ,0.8081133613392689,0.9040554775280899,1.0
+54,heart_disease = No ,"age = [20, 59] ",0.5733901812025832,0.6639233051185529,0.9830054682004855
+55,heart_disease = No ,"age = [20, 59] ",0.5733901812025832,0.6639233051185529,0.9830054682004855
+56,"location = Wisconsin ∧ bmi = [25, 29.99] ∧ hbA1c_level = [5.7, 6.4] ∧ blood_glucose_level = [160, 199] ∧ race = Hispanic ",gender = Female ∧ hypertension = No ,0.4568060693460405,0.7283825982267147,1.0
+57,"location = Wisconsin ∧ bmi = [25, 29.99] ∧ hbA1c_level = [5.7, 6.4] ∧ blood_glucose_level = [160, 199] ∧ race = Hispanic ",gender = Female ∧ hypertension = No ,0.4568060693460405,0.7283825982267147,1.0
+58,"age = [20, 59] ∧ location = Wisconsin ∧ hypertension = No ∧ smoking_history = not current ∧ bmi = [18.49] ∧ hbA1c_level = [5.7, 6.4] ∧ diabetes = No ",heart_disease = No ∧ race = Hispanic ,0.8081133613392689,0.9040554775280899,1.0
+59,"age = [20, 59] ∧ location = Wisconsin ∧ hypertension = No ∧ smoking_history = not current ∧ bmi = [18.49] ∧ hbA1c_level = [5.7, 6.4] ∧ blood_glucose_level = [80, 159] ∧ diabetes = No ",heart_disease = No ∧ race = Hispanic ,0.8081133613392689,0.9040554775280899,1.0
+60,"age = [20, 59] ∧ location = Wisconsin ∧ hypertension = No ∧ smoking_history = not current ∧ bmi = [18.49] ∧ hbA1c_level = [5.7, 6.4] ∧ blood_glucose_level = [80, 159] ∧ diabetes = No ",heart_disease = No ∧ race = Hispanic ,0.8081133613392689,0.9040554775280899,1.0
+61,"age = [20, 59] ∧ location = Wisconsin ∧ smoking_history = not current ∧ blood_glucose_level = [160, 199] ∧ diabetes = No ∧ race = Hispanic ",gender = Female ∧ hypertension = No ,0.4568186093171986,0.728385462389325,1.0
+62,"age = [20, 59] ∧ location = Wisconsin ∧ smoking_history = not current ∧ blood_glucose_level = [160, 199] ∧ diabetes = No ∧ race = Hispanic ",gender = Female ∧ hypertension = No ,0.4568186093171986,0.728385462389325,1.0
+63,gender = Female ∧ location = Wisconsin ∧ hypertension = No ∧ smoking_history = not current ∧ bmi = [18.49] ∧ hbA1c_level = [6.5] ,heart_disease = No ∧ race = Hispanic ,0.8081133613392689,0.9040554775280899,1.0
+64,gender = Female ∧ location = Wisconsin ∧ hypertension = No ∧ smoking_history = not current ∧ bmi = [18.49] ∧ hbA1c_level = [6.5] ,heart_disease = No ∧ race = Hispanic ,0.8081133613392689,0.9040554775280899,1.0
+65,heart_disease = No ,"age = [20, 59] ",0.5733901812025832,0.6639233051185529,0.9830054682004855
+66,diabetes = No ,heart_disease = No ,0.901699166091918,0.5611472646975831,0.9708154153770303
+67,diabetes = No ,heart_disease = No ,0.901699166091918,0.5611472646975831,0.9708154153770303
+68,"age = [20, 59] ∧ location = Wisconsin ∧ smoking_history = not current ∧ bmi = [18.49] ∧ hbA1c_level = [5.7, 6.4] ",heart_disease = No ∧ race = Hispanic ,0.8081133613392689,0.9040554775280899,1.0
+69,"age = [20, 59] ∧ location = Wisconsin ∧ hypertension = No ∧ smoking_history = not current ∧ bmi = [18.49] ∧ hbA1c_level = [5.7, 6.4] ",heart_disease = No ∧ race = Hispanic ,0.8081133613392689,0.9040554775280899,1.0
+70,"age = [20, 59] ∧ location = Wisconsin ∧ hypertension = No ∧ smoking_history = not current ∧ bmi = [18.49] ∧ hbA1c_level = [5.7, 6.4] ∧ blood_glucose_level = [80, 159] ",heart_disease = No ∧ race = Hispanic ,0.8081133613392689,0.9040554775280899,1.0
+71,"age = [20, 59] ∧ location = Wisconsin ∧ hypertension = No ∧ smoking_history = not current ∧ bmi = [18.49] ∧ hbA1c_level = [5.7, 6.4] ∧ blood_glucose_level = [80, 159] ",heart_disease = No ∧ race = Hispanic ,0.8081133613392689,0.9040554775280899,1.0
+72,gender = Female ∧ age = [60] ∧ location = Wisconsin ∧ smoking_history = not current ∧ hbA1c_level = [5.6] ∧ diabetes = No ∧ race = Other ,"heart_disease = No ∧ bmi = [25, 29.99] ∧ blood_glucose_level = [200] ",0.9560975609756097,0.9780485052166934,1.0
+73,gender = Female ∧ age = [60] ∧ location = Wisconsin ∧ smoking_history = not current ∧ hbA1c_level = [5.6] ∧ race = Other ,"heart_disease = No ∧ bmi = [25, 29.99] ∧ blood_glucose_level = [200] ",0.9560975609756097,0.9780485052166934,1.0
+74,gender = Female ∧ location = Wisconsin ∧ smoking_history = not current ∧ bmi = [18.49] ∧ hbA1c_level = [6.5] ,heart_disease = No ∧ race = Hispanic ,0.8081133613392689,0.9040554775280899,1.0
+75,diabetes = No ,heart_disease = No ,0.901699166091918,0.5611472646975831,0.9708154153770303
+76,diabetes = No ,heart_disease = No ,0.901699166091918,0.5611472646975831,0.9708154153770303
+77,"location = Wisconsin ∧ smoking_history = not current ∧ bmi = [18.49] ∧ hbA1c_level = [5.7, 6.4] ",heart_disease = No ∧ race = Hispanic ,0.8081133613392689,0.9040554775280899,1.0
+78,"age = [20, 59] ∧ location = Wisconsin ∧ smoking_history = not current ∧ bmi = [18.49] ∧ hbA1c_level = [5.7, 6.4] ",heart_disease = No ∧ race = Hispanic ,0.8081133613392689,0.9040554775280899,1.0
+79,"age = [20, 59] ∧ location = Wisconsin ∧ hypertension = No ∧ smoking_history = not current ∧ bmi = [18.49] ∧ hbA1c_level = [5.7, 6.4] ",heart_disease = No ∧ race = Hispanic ,0.8081133613392689,0.9040554775280899,1.0
+80,"age = [20, 59] ∧ location = Wisconsin ∧ hypertension = No ∧ smoking_history = not current ∧ bmi = [18.49] ∧ hbA1c_level = [5.7, 6.4] ∧ blood_glucose_level = [80, 159] ",heart_disease = No ∧ race = Hispanic ,0.8081133613392689,0.9040554775280899,1.0
+81,"age = [20, 59] ∧ location = Wisconsin ∧ smoking_history = not current ∧ bmi = [18.49] ∧ hbA1c_level = [5.7, 6.4] ∧ blood_glucose_level = [80, 159] ",heart_disease = No ∧ race = Hispanic ,0.8081133613392689,0.9040554775280899,1.0
+82,gender = Female ∧ age = [60] ∧ location = Wisconsin ∧ smoking_history = not current ∧ hbA1c_level = [5.6] ∧ race = Other ,"heart_disease = No ∧ bmi = [25, 29.99] ∧ blood_glucose_level = [200] ",0.9560975609756097,0.9780485052166934,1.0
+83,gender = Female ∧ age = [60] ∧ location = Wisconsin ∧ smoking_history = not current ∧ hbA1c_level = [5.6] ∧ race = Other ,"heart_disease = No ∧ bmi = [25, 29.99] ∧ blood_glucose_level = [200] ",0.9560975609756097,0.9780485052166934,1.0
+84,diabetes = No ,heart_disease = No ,0.901699166091918,0.5611472646975831,0.9708154153770303
+85,diabetes = No ,heart_disease = No ,0.901699166091918,0.5611472646975831,0.9708154153770303
+86,diabetes = No ,heart_disease = No ,0.901699166091918,0.5611472646975831,0.9708154153770303
+87,gender = Female ∧ age = [60] ∧ location = Wisconsin ∧ smoking_history = not current ∧ hbA1c_level = [5.6] ∧ race = Other ,"heart_disease = No ∧ bmi = [25, 29.99] ∧ blood_glucose_level = [200] ",0.9560975609756097,0.9780485052166934,1.0
+88,gender = Female ∧ age = [60] ∧ location = Wisconsin ∧ smoking_history = not current ∧ hbA1c_level = [5.6] ∧ race = Other ,"heart_disease = No ∧ bmi = [25, 29.99] ∧ blood_glucose_level = [200] ",0.9560975609756097,0.9780485052166934,1.0
+89,gender = Female ∧ age = [60] ∧ location = Wisconsin ∧ hypertension = No ∧ smoking_history = not current ∧ hbA1c_level = [5.6] ∧ race = Other ,"heart_disease = No ∧ bmi = [25, 29.99] ∧ blood_glucose_level = [200] ",0.9560975609756097,0.9780485052166934,1.0
+90,gender = Female ∧ age = [60] ∧ location = Wisconsin ∧ hypertension = No ∧ smoking_history = not current ∧ hbA1c_level = [5.6] ∧ diabetes = No ∧ race = Other ,"heart_disease = No ∧ bmi = [25, 29.99] ∧ blood_glucose_level = [200] ",0.9560975609756097,0.9780485052166934,1.0
+91,gender = Female ∧ age = [60] ∧ location = Wisconsin ∧ hypertension = No ∧ smoking_history = not current ∧ hbA1c_level = [5.6] ∧ race = Other ,"heart_disease = No ∧ bmi = [25, 29.99] ∧ blood_glucose_level = [200] ",0.9560975609756097,0.9780485052166934,1.0
+92,hypertension = No ,heart_disease = No ,0.9049720985641733,0.5467944932936816,0.9674491689581838
+93,diabetes = No ,heart_disease = No ,0.901699166091918,0.5611472646975831,0.9708154153770303
+94,gender = Female ∧ age = [60] ∧ location = Wisconsin ∧ smoking_history = not current ∧ hbA1c_level = [5.6] ∧ race = Other ,"heart_disease = No ∧ bmi = [25, 29.99] ∧ blood_glucose_level = [200] ",0.9560975609756097,0.9780485052166934,1.0
+95,gender = Female ∧ age = [60] ∧ location = Wisconsin ∧ smoking_history = not current ∧ hbA1c_level = [5.6] ∧ diabetes = No ∧ race = Other ,"heart_disease = No ∧ bmi = [25, 29.99] ∧ blood_glucose_level = [200] ",0.9560975609756097,0.9780485052166934,1.0
+96,gender = Female ∧ age = [60] ∧ location = Wisconsin ∧ smoking_history = not current ∧ hbA1c_level = [5.6] ∧ race = Other ,"heart_disease = No ∧ bmi = [25, 29.99] ∧ blood_glucose_level = [200] ",0.9560975609756097,0.9780485052166934,1.0
+97,gender = Female ∧ age = [60] ∧ location = Wisconsin ∧ hypertension = No ∧ smoking_history = not current ∧ hbA1c_level = [5.6] ∧ diabetes = No ∧ race = Other ,"heart_disease = No ∧ bmi = [25, 29.99] ∧ blood_glucose_level = [200] ",0.9560975609756097,0.9780485052166934,1.0
+98,gender = Female ∧ age = [60] ∧ location = Wisconsin ∧ hypertension = No ∧ smoking_history = not current ∧ hbA1c_level = [5.6] ∧ race = Other ,"heart_disease = No ∧ bmi = [25, 29.99] ∧ blood_glucose_level = [200] ",0.9560975609756097,0.9780485052166934,1.0
+99,"gender = Female ∧ age = [10, 19] ∧ hypertension = No ∧ heart_disease = No ∧ smoking_history = not current ∧ bmi = [25, 29.99] ∧ hbA1c_level = [5.7, 6.4] ∧ blood_glucose_level = [80, 159] ∧ diabetes = Si ",location = Wisconsin ,0.9793341275315067,0.9896669341894061,1.0
+100,"gender = Female ∧ age = [10, 19] ∧ hypertension = No ∧ heart_disease = No ∧ smoking_history = not current ∧ bmi = [25, 29.99] ∧ hbA1c_level = [5.7, 6.4] ∧ blood_glucose_level = [80, 159] ∧ diabetes = Si ∧ race = Asian ",location = Wisconsin ,0.9793341275315067,0.9896669341894061,1.0
+101,"gender = Female ∧ age = [10, 19] ∧ hypertension = No ∧ heart_disease = No ∧ smoking_history = not current ∧ bmi = [25, 29.99] ∧ hbA1c_level = [5.7, 6.4] ∧ blood_glucose_level = [80, 159] ∧ diabetes = Si ",location = Wisconsin ,0.9793341275315067,0.9896669341894061,1.0
+102,"age = [60] ∧ hypertension = Si ∧ heart_disease = No ∧ smoking_history = not current ∧ blood_glucose_level = [160, 199] ∧ diabetes = Si ∧ race = Asian ",location = Wisconsin ,0.9793341275315067,0.9896669341894061,1.0
+103,"gender = Female ∧ hypertension = Si ∧ heart_disease = No ∧ smoking_history = not current ∧ hbA1c_level = [6.5] ∧ blood_glucose_level = [160, 199] ∧ diabetes = Si ∧ race = Asian ",location = Wisconsin ,0.9793341275315067,0.9896669341894061,1.0
+104,"gender = Female ∧ hypertension = Si ∧ heart_disease = No ∧ smoking_history = not current ∧ hbA1c_level = [6.5] ∧ blood_glucose_level = [160, 199] ∧ diabetes = Si ∧ race = Asian ",location = Wisconsin ,0.9793341275315067,0.9896669341894061,1.0
+105,"gender = Female ∧ age = [10, 19] ∧ hypertension = No ∧ heart_disease = No ∧ smoking_history = not current ∧ bmi = [25, 29.99] ∧ hbA1c_level = [5.7, 6.4] ∧ blood_glucose_level = [80, 159] ∧ diabetes = Si ∧ race = Asian ",location = Wisconsin ,0.9793341275315067,0.9896669341894061,1.0
+106,"gender = Female ∧ age = [10, 19] ∧ hypertension = No ∧ heart_disease = No ∧ bmi = [25, 29.99] ∧ hbA1c_level = [5.7, 6.4] ∧ blood_glucose_level = [80, 159] ∧ diabetes = Si ∧ race = Asian ",location = Wisconsin ,0.9793341275315067,0.9896669341894061,1.0
+107,"gender = Female ∧ age = [10, 19] ∧ hypertension = No ∧ heart_disease = No ∧ smoking_history = not current ∧ bmi = [25, 29.99] ∧ hbA1c_level = [5.7, 6.4] ∧ blood_glucose_level = [80, 159] ∧ diabetes = Si ",location = Wisconsin ,0.9793341275315067,0.9896669341894061,1.0
+108,"gender = Female ∧ hypertension = Si ∧ heart_disease = No ∧ smoking_history = not current ∧ blood_glucose_level = [160, 199] ∧ diabetes = Si ∧ race = Asian ",location = Wisconsin ,0.9793341275315067,0.9896669341894061,1.0
+109,"gender = Female ∧ hypertension = Si ∧ heart_disease = No ∧ smoking_history = not current ∧ hbA1c_level = [6.5] ∧ blood_glucose_level = [160, 199] ∧ diabetes = Si ∧ race = Asian ",location = Wisconsin ,0.9793341275315067,0.9896669341894061,1.0
+110,"gender = Female ∧ age = [10, 19] ∧ hypertension = No ∧ heart_disease = No ∧ smoking_history = not current ∧ bmi = [25, 29.99] ∧ hbA1c_level = [5.7, 6.4] ∧ blood_glucose_level = [80, 159] ∧ diabetes = Si ∧ race = Asian ",location = Wisconsin ,0.9793341275315067,0.9896669341894061,1.0
+111,"gender = Female ∧ age = [10, 19] ∧ hypertension = No ∧ heart_disease = No ∧ smoking_history = not current ∧ bmi = [25, 29.99] ∧ hbA1c_level = [5.7, 6.4] ∧ blood_glucose_level = [80, 159] ∧ diabetes = Si ",location = Wisconsin ,0.9793341275315067,0.9896669341894061,1.0
+112,"gender = Female ∧ age = [10, 19] ∧ hypertension = No ∧ smoking_history = not current ∧ bmi = [25, 29.99] ∧ hbA1c_level = [5.7, 6.4] ∧ blood_glucose_level = [80, 159] ∧ diabetes = Si ",location = Wisconsin ,0.9793341275315067,0.9896669341894061,1.0
+113,"gender = Female ∧ hypertension = Si ∧ heart_disease = No ∧ smoking_history = not current ∧ bmi = [25, 29.99] ∧ hbA1c_level = [6.5] ∧ blood_glucose_level = [160, 199] ∧ diabetes = Si ∧ race = Asian ",location = Wisconsin ,0.9793341275315067,0.9896669341894061,1.0
+114,"gender = Female ∧ age = [10, 19] ∧ hypertension = No ∧ heart_disease = No ∧ bmi = [25, 29.99] ∧ hbA1c_level = [5.7, 6.4] ∧ blood_glucose_level = [80, 159] ∧ diabetes = Si ∧ race = Asian ",location = Wisconsin ,0.9793341275315067,0.9896669341894061,1.0
+115,"gender = Female ∧ age = [10, 19] ∧ hypertension = No ∧ smoking_history = not current ∧ bmi = [25, 29.99] ∧ hbA1c_level = [5.7, 6.4] ∧ blood_glucose_level = [80, 159] ∧ diabetes = Si ",location = Wisconsin ,0.9793341275315067,0.9896669341894061,1.0
+116,"gender = Female ∧ hypertension = Si ∧ smoking_history = not current ∧ bmi = [25, 29.99] ∧ hbA1c_level = [6.5] ∧ blood_glucose_level = [160, 199] ∧ diabetes = Si ∧ race = Asian ",location = Wisconsin ,0.9793341275315067,0.9896669341894061,1.0
+117,"age = [60] ∧ location = Wisconsin ∧ smoking_history = not current ∧ blood_glucose_level = [160, 199] ∧ race = Hispanic ","hypertension = Si ∧ heart_disease = No ∧ bmi = [18.5, 24.99] ∧ diabetes = Si ",0.9985328233745062,0.9992664024879615,1.0
+118,"age = [60] ∧ location = Wisconsin ∧ smoking_history = not current ∧ blood_glucose_level = [160, 199] ∧ race = Hispanic ","hypertension = Si ∧ heart_disease = No ∧ bmi = [18.5, 24.99] ∧ diabetes = Si ",0.9985328233745062,0.9992664024879615,1.0
+119,"gender = Female ∧ location = Wisconsin ∧ smoking_history = not current ∧ blood_glucose_level = [160, 199] ∧ race = Asian ","age = [0, 9] ∧ hypertension = Si ∧ heart_disease = No ∧ bmi = [18.5, 24.99] ∧ diabetes = Si ",1.0,0.0,0.0
